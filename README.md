@@ -20,4 +20,9 @@ Note: A different family of AprilTag can be used. You need to change it in the c
 # raspcam_pic.py
 This code works with a Raspberry Pi camera. <br>
 It will wait 3 seconds then take a picture. <br>
-The picture will be saved as its timestamp for a name.
+The picture will be saved as its timestamp for a name. <br>
+<br>
+
+# vl6180.py
+This code works with distance sensor adafruit vl6180x. <br>
+It will continuously run the distance sensor every second and print the distance on the terminal. <br>
