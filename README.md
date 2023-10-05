@@ -26,3 +26,8 @@ The picture will be saved as its timestamp for a name. <br>
 # vl6180.py
 This code works with distance sensor adafruit vl6180x. <br>
 It will continuously run the distance sensor every second and print the distance on the terminal. <br>
+<br>
+
+# montor_control.py
+This code controls a DC motor using a keyboard. <br>
+Every move command will take 2 seconds.
