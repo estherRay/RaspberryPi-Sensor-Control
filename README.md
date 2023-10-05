@@ -14,4 +14,10 @@ The picture will then be open and the code will check if an AprilTag from the fa
 If an AprilTag has been detected, a bounding box will be created around it and the distance sensor will is activated to see how far the AprilTag is. <br>
 The picture with the bounding box will be shown for 5 sec and the distance range will be printed on the terminal. <br>
 <br>
-Note: A different family of AprilTag can be used. You need to change it in the code (L 64).
+Note: A different family of AprilTag can be used. You need to change it in the code (L 64). <br>
+<br>
+
+# raspcam_pic.py
+This code works with a Raspberry Pi camera. <br>
+It will wait 3 seconds then take a picture. <br>
+The picture will be saved as its timestamp for a name.
