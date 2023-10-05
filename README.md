@@ -30,4 +30,8 @@ It will continuously run the distance sensor every second and print the distance
 
 # montor_control.py
 This code controls a DC motor using a keyboard. <br>
-Every move command will take 2 seconds.
+Every move command will take 2 seconds. <br>
+<br>
+# raspcam_stream.py
+This code uses the Raspberry Pi camera to take a video for 10 seconds. <br>
+You can stream for longer by modifying L 19.
